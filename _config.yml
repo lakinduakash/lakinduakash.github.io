@@ -31,19 +31,19 @@ projects:
  social_media:
   # behance: your_username
   # dribbble: your_username
-   facebook: lakinduakash
+    facebook: lakinduakash
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-   linkedin: lakinduakash
+    linkedin: lakinduakash
   # mastodon: your_username
-   medium: lakinduakash
-   stackoverflow: 8708710
+    medium: lakinduakash
+    stackoverflow: 8708710
   # telegram: your_username
-   twitter: lakinduakash
+    twitter: lakinduakash
   # unsplash: your_username
   # vk: your_username
-   website: https://lakinduakash.com
+    website: https://lakinduakash.com
   # youtube: your_username
 
 topics:

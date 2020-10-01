@@ -22,6 +22,11 @@
     "AGS Script": {
         "color": "#B9D9FF",
         "url": "https://github.com/trending?l=AGS-Script"
+          },
+    "ABAP": {
+        "color": "#E8274B",
+        "url": "https://github.com/trending?l=ABAP"
+    },
     },
     "Alloy": {
         "color": "#64C800",

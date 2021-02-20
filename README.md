@@ -225,4 +225,4 @@ You also have the option to add on to and extend Primer's styles by adding custo
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
-rebuilt #8
+rebuilt #9

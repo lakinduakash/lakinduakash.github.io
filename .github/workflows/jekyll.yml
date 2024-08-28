@@ -26,6 +26,9 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
+env:
+  PAGES_REPO_NWO: lakinduakash/lakinduakash.github.io
+
 jobs:
   # Build job
   build:
